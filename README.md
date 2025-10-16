@@ -7,7 +7,7 @@ A modern user authentication and profile management application built with React
 
 ## 🚀 Live Demo
 
-**Live Application:** [Add Your Netlify Link Here]  
+**Live Application:** https://popx-app-swart.vercel.app/
 **Source Code:** https://github.com/NivedithaVelaga/popx-app
 
 ## 📱 Features
