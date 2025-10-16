@@ -57,5 +57,4 @@ npm run build
 
 # **COPY-PASTE COMMANDS:**
 
-```cmd
-cd C:\Users\nived\popx-app
+
