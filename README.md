@@ -35,3 +35,27 @@ A modern user authentication and profile management application built with React
 
 ## 🏗️ Project Structure
 <img width="586" height="345" alt="image" src="https://github.com/user-attachments/assets/eeb6d141-5942-457a-afb1-f606de26a117" />
+
+
+## 💻 Local Development
+
+```bash
+# Clone repository
+git clone https://github.com/NivedithaVelaga/popx-app.git
+cd popx-app
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+
+# Build for production
+npm run build
+
+---
+
+# **COPY-PASTE COMMANDS:**
+
+```cmd
+cd C:\Users\nived\popx-app
