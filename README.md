@@ -16,3 +16,15 @@ git clone https://github.com/NivedithaVelaga/popx-app.git
 cd popx-app
 npm install
 npm start
+
+## **Step 2: Complete the merge**
+
+```cmd
+# Add the resolved file
+git add README.md
+
+# Commit the merge
+git commit -m "Merge remote changes and resolve README conflict"
+
+# Push to GitHub
+git push origin main
