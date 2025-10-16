@@ -1,0 +1,39 @@
+.page-nav {
+  position: absolute;
+  bottom: 12px;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  pointer-events: auto;
+}
+
+.nav-btn {
+  background: transparent;
+  border: none;
+  font-size: 18px;
+  color: #666;
+  cursor: pointer;
+  padding: 6px 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-btn svg {
+  display: block;
+  width: 18px;
+  height: 18px;
+}
+
+.nav-btn.disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.nav-counter {
+  color: #666;
+  font-size: 13px;
+}
